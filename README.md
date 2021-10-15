@@ -11,7 +11,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinolaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=prs&bg_color=575958&hide_border=true&hide_rank=true">
   </a>
  </div>
+  
   <br>
+  
   <div align="center">
     <a href="#">
     <b>✔ Languages I have interest;<br>
@@ -28,5 +30,5 @@
     <img align="center" alt="w" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
     <img align="center" alt="l" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
     <img align="center" alt="a" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
-     </a>
+   </a>
       </div>
