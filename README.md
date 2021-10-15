@@ -2,7 +2,7 @@
   <h2>PROFILE</h2>
   <b>✔ Computer science student;<br>
     ✔ Learning C language;<br>
-    ✔ I am going to use here to show simple and advanced coding;<br>
+    ✔ I'm using here to show simple and advanced coding;<br>
   </div>
   
   <br>
