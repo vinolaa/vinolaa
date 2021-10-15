@@ -4,13 +4,6 @@
     ✔ Learning C language;<br>
     ✔ I am going to use here to show simple and advanced coding;<br>
   </div>
-
-<div align="center">
-  <br>
-    <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinolaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=prs&hide_border=true&hide_rank=true">
-  </a>
- </div>
   
   <br>
   
