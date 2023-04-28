@@ -1,6 +1,6 @@
 👋 Hi, I'm Vinicius (aka Vinola)!
 
-👨‍💻 About me
+👨‍💻 About me:
 I'm a software developer passionate about solving problems and creating innovative solutions. I have experience in various programming languages, including:
 
 💻 Java
@@ -9,8 +9,8 @@ I'm a software developer passionate about solving problems and creating innovati
 🛠️ Skills
 In addition to the programming languages mentioned above, I also have skills in:
 
-🗃️ SQL and NoSQL Database
-🌐 Web Development (HTML, CSS, React, Angular, etc.)
+🗃️ SQL Database
+🌐 Web Development (HTML, CSS, JS)
 
 📫 How to reach me
 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-oliveira-b5a151209/)
