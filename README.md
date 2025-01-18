@@ -1,18 +1,26 @@
-👋 Hi, I'm Vinicius (aka Vinola)!
-
+👋 Olá, eu sou o Vinicius (também conhecido como Vinola)!
+  
 👨‍💻 About me:
-I'm a software developer passionate about solving problems and creating innovative solutions. I have experience in various programming languages, including:
+Sou um desenvolvedor de software atualmente trabalhando na equipe de dados na Unimed Ponta Grossa (💚) Tenho experiência em várias linguagens de programação, incluindo:  
+  
+💻 Java  
+🦙 Kotlin  
+🐍 Python  
+⚡ Vue.js  
+⚡ Next.js  
+  
+🛠️ Skills  
+Além das linguagens de programação mencionadas acima, também possuo habilidades em:  
 
-💻 Java
-🐍 Python
-
-🛠️ Skills
-In addition to the programming languages mentioned above, I also have skills in:
-
-🗃️ SQL Database
-🌐 Web Development (HTML, CSS, JS)
-
-📫 How to reach me
-💼 [LinkedIn](https://www.linkedin.com/in/vinicius-oliveira-b5a151209/)
-📧 [email](vini.asoliveira1@gmail.com)
-Feel free to reach out to me or explore my GitHub repositories to see my projects and contributions!
+🗃️ Oracle  
+🗃️ Postgres  
+🗃️ Trino  
+🔧 Apache AirFlow  
+🔧 API  
+💻 Tasy  
+  
+📫 Como me encontrar:  
+💼 [LinkedIn](https://www.linkedin.com/in/vinicius-oliveira-b5a151209/)  
+📧 [Email](vini.asoliveira1@gmail.com)  
+  
+Sinta-se à vontade para entrar em contato comigo ou explorar meus repositórios no GitHub para conhecer meus projetos e contribuições!  
