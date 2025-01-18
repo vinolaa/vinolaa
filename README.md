@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Vinicius (também conhecido como Vinola)!
   
-👨‍💻 About me:
+👨‍💻 Sobre mim:
 Sou um desenvolvedor de software atualmente trabalhando na equipe de dados na Unimed Ponta Grossa (💚) Tenho experiência em várias linguagens de programação, incluindo:  
   
 💻 Java  
